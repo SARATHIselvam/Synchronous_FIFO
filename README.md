@@ -17,5 +17,3 @@ A parameterized **synchronous FIFO (First-In First-Out) buffer** implemented in 
 
 ---
 
-## 📁 Project Structure
-
